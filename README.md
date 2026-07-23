@@ -21,11 +21,11 @@ The laboratory works with sensors, instruments, and microcontrollers connected t
 
 ---
 
-## 👨‍🔬 Leadership and Members
+## 👨‍🔬 Members
 
 **Coordinator:**
 - Prof. Dr. Sidnei Gonçalves da Silva
-- Email: [contact lab]
+- Email: sidgon@ufu.br
 - Website: https://sidgons.wixsite.com/smart
 
 **Researchers and Students:**
@@ -79,83 +79,6 @@ Researchers' projects are organized in individual repositories:
 
 ---
 
-## 🚀 How to Contribute
-
-### For SMART Researchers
-
-1. **Clone the repository** of a project
-   ```bash
-   git clone https://github.com/smart-ufu/project-name.git
-   cd project-name
-   ```
-
-2. **Set up the environment**
-   ```bash
-   # For Python projects
-   pip install -r requirements.txt
-   
-   # For microcontroller projects
-   pip install platformio
-   ```
-
-3. **Create a branch** for your changes
-   ```bash
-   git checkout -b feature/description-of-change
-   ```
-
-4. **Make descriptive commits**
-   ```bash
-   git commit -m "feat: clear description of the change"
-   ```
-
-5. **Open a Pull Request** for review
-
-### Code Standards
-
-- **Python:** PEP 8
-- **C++:** Google C++ Style Guide
-- **Commits:** Conventional Commits (feat:, fix:, docs:, etc.)
-- **Documentation:** Markdown with usage examples
-
----
-
-## 📁 Standard Project Structure
-
-```
-project/
-├── README.md              # Project documentation
-├── requirements.txt       # Python dependencies
-├── platformio.ini         # PlatformIO config (if applicable)
-├── src/                   # Main source code
-├── include/               # Headers (C++)
-├── data/                  # Raw/processed data
-├── scripts/               # Analysis scripts
-├── docs/                  # Detailed documentation
-├── tests/                 # Tests
-└── LICENSE                # License (MIT recommended)
-```
-
----
-
-## 🧪 Research Methodology
-
-### Sensor Validation
-- Instrument calibration
-- Precision and accuracy tests
-- Comparison with reference methods
-
-### Data Analysis
-- Raw data treatment
-- Statistical analysis
-- Report generation
-
-### Documentation
-- Analytical protocols
-- Operation guides
-- Results publication
-
----
-
 ## 📚 Documentation and Resources
 
 - **[Laboratory Wiki](#)** - Standards, tutorials, best practices
@@ -171,17 +94,8 @@ project/
 - Uberlândia, MG - Brazil
 - Website: https://iq.ufu.br/
 
-**Email:** [add lab email]  
-**Phone:** [add phone]  
+**Email:** sidgon@ufu.br 
 **Website:** https://sidgons.wixsite.com/smart
-
----
-
-## 📄 License
-
-Each project has its own license. Check the LICENSE file in each repository.
-
-Open projects typically use: **MIT License**
 
 ---
 
